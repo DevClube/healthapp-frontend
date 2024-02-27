@@ -1,0 +1,13 @@
+.login-bg{
+    background: rgb(180,176,245);
+    background: linear-gradient(90deg, rgba(180,176,245,1) 0%, rgba(213,213,215,1) 35%, rgba(104,143,225,1) 83%, rgba(0,147,255,1) 100%);
+}
+.login-glass{
+    
+background: rgba(255, 255, 255, 0.43);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 1px solid rgba(255, 255, 255, 0.3);
+}

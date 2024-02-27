@@ -1,0 +1,534 @@
+[
+    {
+      "name": "itching",
+      "description": "An uncomfortable sensation that causes a desire to scratch the skin."
+    },
+    {
+      "name": "skin_rash",
+      "description": "Redness and irritation of the skin often accompanied by small bumps or changes in color."
+    },
+    {
+      "name": "nodal_skin_eruptions",
+      "description": "Painful lumps or nodes on the skin's surface."
+    },
+    {
+      "name": "continuous_sneezing",
+      "description": "Frequent and persistent sneezing."
+    },
+    {
+      "name": "shivering",
+      "description": "Involuntary shaking or trembling, often due to cold or illness."
+    },
+    {
+      "name": "chills",
+      "description": "Sudden cold sensation accompanied by shivering."
+    },
+    {
+      "name": "joint_pain",
+      "description": "Discomfort, aching, or soreness in the joints."
+    },
+    {
+      "name": "stomach_pain",
+      "description": "Discomfort or pain in the abdominal region."
+    },
+    {
+      "name": "acidity",
+      "description": "Excessive production of stomach acid leading to a burning sensation in the chest."
+    },
+    {
+      "name": "ulcers_on_tongue",
+      "description": "Open sores or lesions on the tongue."
+    },
+    {
+      "name": "muscle_wasting",
+      "description": "Gradual loss of muscle mass and strength."
+    },
+    {
+      "name": "vomiting",
+      "description": "Forceful expulsion of stomach contents through the mouth."
+    },
+    {
+      "name": "burning_micturition",
+      "description": "Pain or burning sensation during urination."
+    },
+    {
+      "name": "spotting_urination",
+      "description": "Passing urine in small amounts and at frequent intervals."
+    },
+    {
+      "name": "fatigue",
+      "description": "Extreme tiredness or exhaustion."
+    },
+    {
+      "name": "weight_gain",
+      "description": "An increase in body weight, often associated with fluid retention."
+    },
+    {
+      "name": "anxiety",
+      "description": "Feelings of worry, fear, or unease."
+    },
+    {
+      "name": "cold_hands_and_feets",
+      "description": "Unusually cold hands and feet."
+    },
+    {
+      "name": "mood_swings",
+      "description": "Sudden and intense changes in emotions."
+    },
+    {
+      "name": "weight_loss",
+      "description": "A decrease in body weight, often unintentional."
+    },
+    {
+      "name": "restlessness",
+      "description": "Inability to stay still or calm."
+    },
+    {
+      "name": "lethargy",
+      "description": "A state of tiredness or lack of energy."
+    },
+    {
+      "name": "patches_in_throat",
+      "description": "Abnormal areas of discoloration or texture in the throat."
+    },
+    {
+      "name": "irregular_sugar_level",
+      "description": "Fluctuations in blood sugar levels."
+    },
+    {
+      "name": "cough",
+      "description": "A sudden, forceful expulsion of air from the lungs."
+    },
+    {
+      "name": "high_fever",
+      "description": "An abnormally high body temperature."
+    },
+    {
+      "name": "sunken_eyes",
+      "description": "Eyes that appear deeply set due to various factors."
+    },
+    {
+      "name": "breathlessness",
+      "description": "Difficulty in breathing or shortness of breath."
+    },
+    {
+      "name": "sweating",
+      "description": "Excessive production of sweat."
+    },
+    {
+      "name": "dehydration",
+      "description": "A lack of adequate fluid in the body."
+    },
+    {
+      "name": "indigestion",
+      "description": "Discomfort or pain in the upper abdomen often associated with eating."
+    },
+    {
+      "name": "headache",
+      "description": "A pain or ache in the head."
+    },
+    {
+      "name": "yellowish_skin",
+      "description": "Skin coloration that appears yellow."
+    },
+    {
+      "name": "dark_urine",
+      "description": "Urine that is darker in color than usual."
+    },
+    {
+      "name": "nausea",
+      "description": "A sensation of discomfort in the stomach, often preceding vomiting."
+    },
+    {
+      "name": "loss_of_appetite",
+      "description": "A reduced desire to eat or loss of interest in food."
+    },
+    {
+      "name": "pain_behind_the_eyes",
+      "description": "Discomfort or ache located behind the eyes."
+    },
+    {
+      "name": "back_pain",
+      "description": "Discomfort or pain in the lower or upper back."
+    },
+    {
+      "name": "constipation",
+      "description": "Infrequent or difficult bowel movements."
+    },
+    {
+      "name": "abdominal_pain",
+      "description": "Pain or discomfort in the abdominal region."
+    },
+    {
+      "name": "diarrhoea",
+      "description": "Frequent and loose or watery bowel movements."
+    },
+    {
+      "name": "mild_fever",
+      "description": "A slight increase in body temperature."
+    },
+    {
+      "name": "yellow_urine",
+      "description": "Urine that appears yellow in color."
+    },
+    {
+      "name": "yellowing_of_eyes",
+      "description": "Yellow discoloration of the whites of the eyes."
+    },
+    {
+      "name": "acute_liver_failure",
+      "description": "A rapid deterioration of liver function."
+    },
+    {
+      "name": "fluid_overload",
+      "description": "Excessive accumulation of fluid in the body."
+    },
+    {
+      "name": "swelling_of_stomach",
+      "description": "Enlargement or puffiness of the abdomen."
+    },
+    {
+      "name": "swelled_lymph_nodes",
+      "description": "Enlargement of lymph nodes, often due to infection."
+    },
+    {
+      "name": "malaise",
+      "description": "A general feeling of discomfort, illness, or unease."
+    },
+    {
+      "name": "blurred_and_distorted_vision",
+      "description": "Visual impairment characterized by unclear or distorted sight."
+    },
+    {
+      "name": "phlegm",
+      "description": "Mucus produced in the respiratory system, often coughed up."
+    },
+    {
+      "name": "throat_irritation",
+      "description": "Discomfort or scratchiness in the throat."
+    },
+    {
+      "name": "redness_of_eyes",
+      "description": "Eyes that appear red."
+    },
+    {
+      "name": "sinus_pressure",
+      "description": "Pressure or discomfort in the sinuses."
+    },
+    {
+      "name": "runny_nose",
+      "description": "Excessive production of nasal mucus."
+    },
+    {
+      "name": "congestion",
+      "description": "Blockage or obstruction of nasal passages."
+    },
+    {
+      "name": "chest_pain",
+      "description": "Pain or discomfort in the chest region."
+    },
+    {
+      "name": "weakness_in_limbs",
+      "description": "Reduced strength or power in the arms or legs."
+    },
+    {
+      "name": "fast_heart_rate",
+      "description": "An abnormally rapid heartbeat."
+    },
+    {
+      "name": "pain_during_bowel_movements",
+      "description": "Discomfort or pain experienced during bowel movements."
+    },
+    {
+      "name": "pain_in_anal_region",
+      "description": "Discomfort or pain in the anal area."
+    },
+    {
+      "name": "bloody_stool",
+      "description": "Stool containing visible blood."
+    },
+    {
+      "name": "irritation_in_anus",
+      "description": "Discomfort or inflammation in the anus."
+    },
+    {
+      "name": "neck_pain",
+      "description": "Discomfort or pain in the neck region."
+    },
+    {
+      "name": "dizziness",
+      "description": "A sensation of lightheadedness or unsteadiness."
+    },
+    {
+      "name": "cramps",
+      "description": "Sudden and involuntary muscle contractions."
+    },
+    {
+      "name": "bruising",
+      "description": "Visible discoloration of the skin due to broken blood vessels."
+    },
+    {
+      "name": "obesity",
+      "description": "Excessive accumulation of body fat."
+    },
+    {
+      "name": "swollen_legs",
+      "description": "Enlargement or puffiness of the legs, often due to fluid retention."
+    },
+    {
+      "name": "swollen_blood_vessels",
+      "description": "Enlargement or bulging of blood vessels."
+    },
+    {
+      "name": "puffy_face_and_eyes",
+      "description": "Swelling or puffiness of the face and eyes."
+    },
+    {
+      "name": "enlarged_thyroid",
+      "description": "Abnormal enlargement of the thyroid gland in the neck."
+    },
+    {
+      "name": "brittle_nails",
+      "description": "Nails that are prone to breaking or splitting."
+    },
+    {
+      "name": "swollen_extremities",
+      "description": "Enlargement or puffiness of the hands and feet."
+    },
+    {
+      "name": "excessive_hunger",
+      "description": "Unusually high or constant feelings of hunger."
+    },
+    {
+      "name": "extra_marital_contacts",
+      "description": "Engaging in romantic or sexual activities outside of marriage."
+    },
+    {
+      "name": "drying_and_tingling_lips",
+      "description": "Sensation of dryness and tingling in the lips."
+    },
+    {
+      "name": "slurred_speech",
+      "description": "Impaired or unclear speech."
+    },
+    {
+      "name": "knee_pain",
+      "description": "Discomfort or pain in the knee joint."
+    },
+    {
+      "name": "hip_joint_pain",
+      "description": "Discomfort or pain in the hip joint."
+    },
+    {
+      "name": "muscle_weakness",
+      "description": "Reduced strength or power in the muscles."
+    },
+    {
+      "name": "stiff_neck",
+      "description": "Reduced mobility or discomfort in the neck due to stiffness."
+    },
+    {
+      "name": "swelling_joints",
+      "description": "Enlargement or puffiness of the joints."
+    },
+    {
+      "name": "movement_stiffness",
+      "description": "Difficulty or resistance in moving the body."
+    },
+    {
+      "name": "spinning_movements",
+      "description": "Sensation of spinning or dizziness."
+    },
+    {
+      "name": "loss_of_balance",
+      "description": "Difficulty maintaining an upright posture."
+    },
+    {
+      "name": "unsteadiness",
+      "description": "Lack of stability or balance."
+    },
+    {
+      "name": "weakness_of_one_body_side",
+      "description": "Reduced strength or control on one side of the body."
+    },
+    {
+      "name": "loss_of_smell",
+      "description": "Diminished or absent sense of smell."
+    },
+    {
+      "name": "bladder_discomfort",
+      "description": "Discomfort or pain in the bladder region."
+    },
+    {
+      "name": "foul_smell_of_urine",
+      "description": "Unpleasant or strong odor of urine."
+    },
+    {
+      "name": "continuous_feel_of_urine",
+      "description": "Persistent sensation of needing to urinate."
+    },
+    {
+      "name": "passage_of_gases",
+      "description": "Release of gas from the digestive system."
+    },
+    {
+      "name": "internal_itching",
+      "description": "Itching sensation inside the body or on internal organs."
+    },
+    {
+      "name": "toxic_look_typhos",
+      "description": "Appearance indicative of a severe or toxic condition, as in typhoid fever."
+    },
+    {
+      "name": "depression",
+      "description": "Persistent feelings of sadness, hopelessness, and a lack of interest or pleasure in activities."
+    },
+    {
+      "name": "irritability",
+      "description": "Easily provoked or aggravated emotional state."
+    },
+    {
+      "name": "muscle_pain",
+      "description": "Discomfort or pain in the muscles."
+    },
+    {
+      "name": "altered_sensorium",
+      "description": "Changes in perception, consciousness, or mental state."
+    },
+    {
+      "name": "red_spots_over_body",
+      "description": "Reddish discoloration or spots on the skin."
+    },
+    {
+      "name": "belly_pain",
+      "description": "Discomfort or pain in the abdominal area."
+    },
+    {
+      "name": "abnormal_menstruation",
+      "description": "Irregularities in the menstrual cycle."
+    },
+    {
+      "name": "dischromic_patches",
+      "description": "Abnormal discoloration or patches on the skin."
+    },
+    {
+      "name": "watering_from_eyes",
+      "description": "Excessive tearing or watering of the eyes."
+    },
+    {
+      "name": "increased_appetite",
+      "description": "Greater than normal desire for food."
+    },
+    {
+      "name": "polyuria",
+      "description": "Excessive production of urine."
+    },
+    {
+      "name": "family_history",
+      "description": "History of health conditions within the family."
+    },
+    {
+      "name": "mucoid_sputum",
+      "description": "Thick and viscous mucus coughed up from the respiratory tract."
+    },
+    {
+      "name": "rusty_sputum",
+      "description": "Sputum with a rust-colored appearance."
+    },
+    {
+      "name": "lack_of_concentration",
+      "description": "Difficulty focusing or paying attention."
+    },
+    {
+      "name": "visual_disturbances",
+      "description": "Disruptions or impairments in vision."
+    },
+    {
+      "name": "receiving_blood_transfusion",
+      "description": "Receiving donated blood during a medical procedure."
+    },
+    {
+      "name": "receiving_unsterile_injections",
+      "description": "Receiving injections in an unsterile or contaminated environment."
+    },
+    {
+      "name": "coma",
+      "description": "A state of deep unconsciousness."
+    },
+    {
+      "name": "stomach_bleeding",
+      "description": "Bleeding in the stomach or gastrointestinal tract."
+    },
+    {
+      "name": "distention_of_abdomen",
+      "description": "Abnormal enlargement or swelling of the abdomen."
+    },
+    {
+      "name": "history_of_alcohol_consumption",
+      "description": "Record of past alcohol consumption."
+    },
+    {
+      "name": "fluid_overload_1",
+      "description": "Excessive accumulation of fluids in the body."
+    },
+    {
+      "name": "blood_in_sputum",
+      "description": "Presence of blood in coughed-up mucus."
+    },
+    {
+      "name": "prominent_veins_on_calf",
+      "description": "Clearly visible veins on the calf muscles."
+    },
+    {
+      "name": "palpitations",
+      "description": "Rapid, strong, or irregular heartbeat."
+    },
+    {
+      "name": "painful_walking",
+      "description": "Discomfort or pain experienced while walking."
+    },
+    {
+      "name": "pus_filled_pimples",
+      "description": "Pimples filled with pus."
+    },
+    {
+      "name": "blackheads",
+      "description": "Small, dark bumps on the skin caused by clogged hair follicles."
+    },
+    {
+      "name": "scurring",
+      "description": "Formation of scaly patches on the skin."
+    },
+    {
+      "name": "skin_peeling",
+      "description": "Shedding of the outer layer of the skin."
+    },
+    {
+      "name": "silver_like_dusting",
+      "description": "Appearance of silver-like dust on the skin."
+    },
+    {
+      "name": "small_dents_in_nails",
+      "description": "Tiny depressions or dents in the nails."
+    },
+    {
+      "name": "inflammatory_nails",
+      "description": "Nail abnormalities associated with inflammation."
+    },
+    {
+      "name": "blister",
+      "description": "A fluid-filled bump on the skin."
+    },
+    {
+      "name": "red_sore_around_nose",
+      "description": "Painful, red sore located around the nose."
+    },
+    {
+      "name": "yellow_crust_ooze",
+      "description": "Yellowish crust or discharge oozing from the skin."
+    },
+    {
+      "name": "prognosis",
+      "description": "The likely course and outcome of a medical condition."
+    }
+]
